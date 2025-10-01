@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-10-01 20:20:43 +0000"
@@ -218,6 +224,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-10-01 20:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-10-01 21:58:59 +0000"
     },
     "done": true
   },
@@ -425,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-10-01 22:00:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-01 21:19:46 +0000"
@@ -515,9 +533,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-10-01 21:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-10-01 21:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
     },
     "done": true
   },
@@ -530,6 +560,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-10-01 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
     },
     "done": true
   },
@@ -554,6 +590,12 @@
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-10-01 21:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-10-01 22:00:54 +0000"
     },
     "done": true
   },
@@ -614,6 +656,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-10-01 20:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
     },
     "done": true
   },
@@ -761,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-10-01 20:32:52 +0000"
@@ -792,6 +846,12 @@
       "minecraft:creeper": "2025-10-01 20:56:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 21:58:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
@@ -895,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-10-01 20:59:09 +0000"
@@ -945,17 +1011,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-10-01 20:37:48 +0000",
       "minecraft:beach": "2025-10-01 20:41:14 +0000",
+      "minecraft:dark_forest": "2025-10-01 21:49:32 +0000",
       "minecraft:forest": "2025-10-01 20:43:46 +0000",
-      "minecraft:deep_dark": "2025-10-01 21:19:32 +0000",
       "minecraft:sparse_jungle": "2025-10-01 20:37:54 +0000",
-      "minecraft:ocean": "2025-10-01 20:42:00 +0000",
-      "minecraft:jungle": "2025-10-01 20:18:24 +0000",
       "minecraft:river": "2025-10-01 20:37:45 +0000",
       "minecraft:lukewarm_ocean": "2025-10-01 20:42:01 +0000",
-      "minecraft:birch_forest": "2025-10-01 20:31:11 +0000",
       "minecraft:stony_shore": "2025-10-01 20:18:47 +0000",
+      "minecraft:old_growth_birch_forest": "2025-10-01 20:37:48 +0000",
+      "minecraft:deep_dark": "2025-10-01 21:19:32 +0000",
+      "minecraft:ocean": "2025-10-01 20:42:00 +0000",
+      "minecraft:jungle": "2025-10-01 20:18:24 +0000",
+      "minecraft:meadow": "2025-10-01 21:58:22 +0000",
+      "minecraft:birch_forest": "2025-10-01 20:31:11 +0000",
       "minecraft:plains": "2025-10-01 21:03:16 +0000"
     },
     "done": false
@@ -1014,6 +1082,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-10-01 22:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-10-01 21:10:26 +0000"
@@ -1044,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-10-01 21:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-10-01 20:34:09 +0000"
@@ -1053,7 +1139,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-01 20:57:16 +0000",
+      "apple": "2025-10-01 21:55:10 +0000",
       "cooked_mutton": "2025-10-01 21:03:47 +0000",
+      "mushroom_stew": "2025-10-01 21:54:34 +0000",
       "melon_slice": "2025-10-01 20:39:04 +0000"
     },
     "done": false
@@ -1067,6 +1155,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-10-01 20:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
     },
     "done": true
   },
@@ -1133,6 +1227,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-10-01 20:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-10-01 22:00:54 +0000"
     },
     "done": true
   },
@@ -1241,6 +1341,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-10-01 20:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:59:02 +0000"
     },
     "done": true
   },
