@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "02300627-834e-3783-af7c-832b4572658c",
+    "name": "GOGANEX",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3378b69f-b53e-3b13-926c-fdf636e61892",
+    "name": "Lady_Nivoli",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b40026b9-7d77-3917-878d-5b87daf9d839",
+    "name": "Snixvp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
