@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-10-01 22:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-10-01 21:09:38 +0000"
@@ -701,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-10-01 22:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-01 21:45:43 +0000"
@@ -817,9 +829,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-10-01 22:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-01 21:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-10-01 22:16:10 +0000"
     },
     "done": true
   },
@@ -922,6 +946,7 @@
       "minecraft:river": "2025-10-01 20:26:44 +0000",
       "minecraft:lukewarm_ocean": "2025-10-01 20:41:35 +0000",
       "minecraft:stony_shore": "2025-10-01 20:17:10 +0000",
+      "minecraft:lush_caves": "2025-10-01 22:08:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-01 20:43:36 +0000",
       "minecraft:deep_dark": "2025-10-01 21:38:29 +0000",
       "minecraft:ocean": "2025-10-01 20:42:02 +0000",
@@ -1030,6 +1055,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-01 20:54:59 +0000",
+      "glow_berries": "2025-10-01 22:10:20 +0000",
       "melon_slice": "2025-10-01 20:47:09 +0000"
     },
     "done": false
@@ -1112,6 +1138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-10-01 22:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-10-01 21:27:58 +0000"
@@ -1190,6 +1222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-01 22:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-10-01 20:39:01 +0000"
@@ -1232,6 +1270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-01 22:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-10-01 20:32:34 +0000"
@@ -1247,6 +1291,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-10-01 20:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-10-01 22:21:52 +0000"
     },
     "done": true
   },
