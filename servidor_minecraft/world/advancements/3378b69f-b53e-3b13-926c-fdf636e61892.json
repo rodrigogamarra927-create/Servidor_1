@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-10-01 20:55:39 +0000"
@@ -224,6 +230,18 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-01 21:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
     },
     "done": true
   },
@@ -443,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-10-01 20:58:58 +0000"
@@ -611,9 +635,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-10-01 21:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
     },
     "done": true
   },
@@ -737,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-10-01 20:26:42 +0000"
@@ -799,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-01 21:45:43 +0000"
@@ -850,6 +898,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-10-01 21:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-10-01 22:40:15 +0000"
     },
     "done": true
   },
@@ -951,6 +1005,7 @@
       "minecraft:deep_dark": "2025-10-01 21:38:29 +0000",
       "minecraft:ocean": "2025-10-01 20:42:02 +0000",
       "minecraft:jungle": "2025-10-01 20:16:09 +0000",
+      "minecraft:meadow": "2025-10-01 22:43:44 +0000",
       "minecraft:birch_forest": "2025-10-01 20:29:18 +0000",
       "minecraft:bamboo_jungle": "2025-10-01 20:28:11 +0000"
     },
@@ -1055,6 +1110,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-01 20:54:59 +0000",
+      "cooked_mutton": "2025-10-01 22:44:04 +0000",
       "glow_berries": "2025-10-01 22:10:20 +0000",
       "melon_slice": "2025-10-01 20:47:09 +0000"
     },
@@ -1276,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 22:40:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-10-01 20:32:34 +0000"
@@ -1285,6 +1347,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-10-01 21:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:38:03 +0000"
     },
     "done": true
   },
