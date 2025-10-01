@@ -1093,6 +1093,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-10-01 22:26:19 +0000",
       "minecraft:skeleton": "2025-10-01 20:26:39 +0000",
       "minecraft:enderman": "2025-10-01 21:22:24 +0000",
       "minecraft:spider": "2025-10-01 21:14:36 +0000",
@@ -1464,6 +1465,7 @@
       "cooked_porkchop": "2025-10-01 20:51:22 +0000",
       "rotten_flesh": "2025-10-01 21:42:35 +0000",
       "cooked_mutton": "2025-10-01 20:59:03 +0000",
+      "glow_berries": "2025-10-01 22:29:35 +0000",
       "mushroom_stew": "2025-10-01 22:00:29 +0000",
       "cooked_beef": "2025-10-01 21:07:02 +0000",
       "melon_slice": "2025-10-01 20:25:45 +0000"

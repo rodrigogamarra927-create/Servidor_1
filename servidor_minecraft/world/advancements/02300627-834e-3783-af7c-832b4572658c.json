@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-10-01 22:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-10-01 22:24:25 +0000"
@@ -677,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 22:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-10-01 21:49:54 +0000"
@@ -953,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 22:25:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-01 21:19:46 +0000"
@@ -1195,6 +1213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-10-01 22:25:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 20:41:23 +0000"
@@ -1418,6 +1442,7 @@
       "cooked_porkchop": "2025-10-01 20:57:16 +0000",
       "apple": "2025-10-01 21:55:10 +0000",
       "cooked_mutton": "2025-10-01 21:03:47 +0000",
+      "glow_berries": "2025-10-01 22:33:25 +0000",
       "mushroom_stew": "2025-10-01 21:54:34 +0000",
       "melon_slice": "2025-10-01 20:39:04 +0000"
     },
