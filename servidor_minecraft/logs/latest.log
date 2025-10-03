@@ -42,3 +42,5 @@
 [23:25:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=993, y=122, z=166} jd{x=993, y=120, z=166}
 [23:30:30] [Server thread/INFO]: [GOGANEX: Teleported GOGANEX to Snixvp]
 [23:34:06] [Server thread/INFO]: [Snixvp: Set the time to 1000]
+[23:44:32] [Server thread/INFO]: [GOGANEX: Set the time to 1000]
+[23:48:01] [Server thread/INFO]: [GOGANEX: Teleported GOGANEX to Snixvp]
