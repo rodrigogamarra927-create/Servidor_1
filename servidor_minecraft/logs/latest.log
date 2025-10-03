@@ -37,3 +37,7 @@
 [23:11:04] [Server thread/INFO]: GOGANEX hit the ground too hard
 [23:14:34] [Server thread/INFO]: [Snixvp: Set the time to 1000]
 [23:20:44] [Server thread/INFO]: GOGANEX fell from a high place
+[23:24:01] [Server thread/INFO]: [GOGANEX: Teleported GOGANEX to Snixvp]
+[23:24:11] [Server thread/INFO]: [Snixvp: Set the time to 1000]
+[23:25:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=993, y=122, z=166} jd{x=993, y=120, z=166}
+[23:30:30] [Server thread/INFO]: [GOGANEX: Teleported GOGANEX to Snixvp]
